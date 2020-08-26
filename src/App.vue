@@ -22,11 +22,17 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Abril Fatface', cursive;
+  font-size:30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color:red;
+  margin-top: 60px;  
+  background: url(https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220) no-repeat center fixed;
+  background-size: cover;
+    
+    
 }
+
 </style>
